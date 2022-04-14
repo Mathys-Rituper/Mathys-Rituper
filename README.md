@@ -16,6 +16,8 @@ I'm Mathys Rituper, and I'm a French computer science student. I'm 19 years old 
 
 ✏️ Software isn't all about coding. Designing enjoyable interfaces and experiences for users is something I stongly care about. I'm experimented with tools like Figma or Canva to create nice-looking visuals and interfaces for my projects !
 
+🌐 During my school curriculum and various experiences, I've also acquired knowledge in networking, basics of operating systems, databases, APIs, analysis and conception of information systems.
+
 ## Causes and interests
 
 🌿 Aside from computer science, I dedicate much of my free time to the cause of ecological and social justice, for which I am strongly committed. Although it is above all a fight for our global survival in a desirable world, it has taught me a lot about how to work as a group towards a common goal using soft skills that are less common among software developers (e.g. multi-team coordination, planning, public relations,...). I also got to learn a lot about myself and what I truely care about, in addition to being a life-defining experience.
