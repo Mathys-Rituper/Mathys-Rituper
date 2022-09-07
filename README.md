@@ -4,9 +4,10 @@ I'm Mathys Rituper, and I'm a French computer science student. I'm 19 years old 
 
 ## Education
 
+👨‍💻 I'm currently a Cybersecurity Student at ENSIBS Vannes, France engineering programme
+
 🎓 I have successfuly obtained a DUT Informatique (Associate's Degree in IT) at the Grenoble Alpes University's Insitute of Technology 2.
 
-💭 I'm now looking for an apprenticeship in Cybersecurity to pursue my goal of becoming a Cybersecurity Engineer !
 
 ## Skills & projects
 
