@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mathys Rituper, and I'm a French computer science student. I'm 19 years old I and use he/they pronouns.
+I'm Mathys Rituper, and I'm a French computer science student. I'm 22 years old I and use he/they pronouns.
 
 ## Education
 
